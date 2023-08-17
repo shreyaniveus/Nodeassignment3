@@ -1,0 +1,14 @@
+2023-08-17T09:46:02.834Z info: Server is running on port 3007
+2023-08-17T09:46:02.869Z info: Connected to database
+2023-08-17T09:56:56.909Z info: Inside post function
+2023-08-17T09:56:56.958Z info: Data saved:
+2023-08-17T09:57:20.021Z info: Inside post function
+2023-08-17T09:57:20.027Z error: User with the provided email already exists
+2023-08-17T09:58:03.409Z info: Data updated:
+2023-08-17T09:58:25.765Z info: Data updated:
+2023-08-17T09:58:35.094Z error: No data found for update
+2023-08-17T09:59:06.153Z info: Users retrieved:
+2023-08-17T10:00:22.678Z info: Inside post function
+2023-08-17T10:00:22.687Z info: Data saved:
+2023-08-17T10:00:33.495Z info: Inside post function
+2023-08-17T10:00:33.500Z error: User with the provided email already exists
